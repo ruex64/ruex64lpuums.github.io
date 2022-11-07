@@ -1,0 +1,19 @@
+#profile_img{
+    height: 98px;
+    width: 98px;
+    align-items: auto;
+    border: solid black 6px;
+    border-radius: 50px;
+}
+#profile_text{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color: white;
+
+}
+#attxt{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
